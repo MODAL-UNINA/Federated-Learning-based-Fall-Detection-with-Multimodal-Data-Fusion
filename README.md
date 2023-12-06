@@ -1,7 +1,7 @@
-# [FL-FD: Federated learning-based fall detection with multimodal data fusion]([http://www.baidu.com/](https://www.sciencedirect.com/science/article/pii/S1566253523002063))
+# FL-FD: Federated learning-based fall detection with multimodal data fusion
 This is a Pytorch implementation of FL-FD in the following paper:
 
-Qi, Pian, Diletta Chiaro, and Francesco Piccialli, FL-FD: Federated learning-based fall detection with multimodal data fusion, Information Fusion (2023).
+Qi, Pian, Diletta Chiaro, and Francesco Piccialli, [FL-FD: Federated learning-based fall detection with multimodal data fusion, Information Fusion (2023).]([http://www.baidu.com/](https://www.sciencedirect.com/science/article/pii/S1566253523002063))
 
 
 # Requirements
