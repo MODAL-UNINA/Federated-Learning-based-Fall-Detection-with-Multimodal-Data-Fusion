@@ -158,8 +158,8 @@ class Client(object):
 
 
 # load data
-train_data_path = 'FL-FD/dataset/Train_data.pkl'
-test_data_path = 'FL-FD/dataset/Test_data.pkl'
+train_data_path = 'FL-FD/Train_data.pkl'
+test_data_path = 'FL-FD/Test_data.pkl'
 
 train_data = pickle.load(open(train_data_path, 'rb'))
 test_data = pickle.load(open(test_data_path, 'rb'))
