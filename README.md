@@ -9,4 +9,4 @@ python>=3.6
 pytorch>=0.4
 
 # Note
-Download FALL-UP dataset, following the tutorial [here](https://github.com/jpnm561/HAR-UP/tree/master/DataBaseDownload/), then place the files into the folder 'dataset'.
+Follow the tutorial [here](https://github.com/jpnm561/HAR-UP/tree/master/DataBaseDownload/) to download the FALL-UP dataset and place the file into the "dataset" folder.
