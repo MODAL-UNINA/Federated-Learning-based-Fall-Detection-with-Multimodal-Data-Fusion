@@ -6,24 +6,6 @@ from PIL import Image
 import imageio
 import pickle
 
-# Download FALL-UP dataset.
-
-# A)
-# download sensor data from the website: https://drive.google.com/file/d/1JBGU5W2uq9rl8h7bJNt2lN4SjfZnFxmQ/view
-# then get the file named CompleteDataSet.csv, please put it into the dataset folder.
-
-# B)
-# download camera data follow the tutorial on this website: https://github.com/jpnm561/HAR-UP/tree/master/DataBaseDownload
-# then get the flods like follow, also put them into the dataset folder.
-
-# ParentFolder\
-#             \Subject#\
-#                      \Activity#\
-#                                \Trial#\
-#                                       \downloadedFile(1)
-#                                       ...
-#                                       \donwnloadedFile(i)
-
 
 def re_value(arr):
     rzero = np.min(arr)
