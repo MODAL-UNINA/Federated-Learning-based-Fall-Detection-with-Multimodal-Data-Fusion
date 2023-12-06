@@ -9,7 +9,7 @@ python>=3.6
 pytorch>=0.4
 
 # Note
-Download FALL-UP dataset, then place the file into the folder 'dataset'.
+Download FALL-UP dataset, then place the files into the folder 'dataset'.
 
 A)
 download sensor data from Google drive [here](https://drive.google.com/file/d/bc1qk55vk7wjgzg3pmxlh59rv5dlgewd9jem5nrt4w/view/) .
