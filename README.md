@@ -10,3 +10,9 @@ pytorch>=0.4
 
 # Note
 Follow the tutorial [here](https://github.com/jpnm561/HAR-UP/tree/master/DataBaseDownload/) to download the FALL-UP dataset and place the files into the "dataset" folder.
+
+## Acknowledgments
+This work was supported by the following projects: 
+
+ - PNRR project FAIR -  Future AI Research (PE00000013), Spoke 3, under the NRRP MUR program funded by the NextGenerationEU.
+ - PNRR Centro Nazionale HPC, Big Data e Quantum Computing, (CN\_00000013)(CUP: E63C22000980007), under the NRRP MUR program funded by the NextGenerationEU.
